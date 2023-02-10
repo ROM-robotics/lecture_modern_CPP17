@@ -1,0 +1,4 @@
+/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/build/CMakeFiles/tools.dir
+/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/build/CMakeFiles/main.dir
+/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/build/CMakeFiles/rebuild_cache.dir

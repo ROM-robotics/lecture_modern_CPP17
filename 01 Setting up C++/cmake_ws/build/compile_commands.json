@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/tools.dir/tools.cpp.o -c \"/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/tools.cpp\"",
+  "file": "/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/tools.cpp"
+},
+{
+  "directory": "/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/main.dir/main.cpp.o -c \"/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/main.cpp\"",
+  "file": "/home/mr_robot/Desktop/Git/modern_cpp_2020/01 Setting up C++/cmake_ws/main.cpp"
+}
+]
