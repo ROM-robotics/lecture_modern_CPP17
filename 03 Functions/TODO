@@ -1,0 +1,3 @@
+buffer overflow
+g++ -O0 cstylestring.cpp => ok
+g++ -O3 cstylestring.cpp => not ok
