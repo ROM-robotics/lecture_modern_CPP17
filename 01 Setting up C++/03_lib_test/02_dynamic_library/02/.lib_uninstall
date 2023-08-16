@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo rm /usr/lib/x86_64-linux-gnu/libdeepblue.so
+sudo rm /usr/include/deepblue.hpp

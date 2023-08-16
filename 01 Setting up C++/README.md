@@ -23,8 +23,8 @@ $ g++ hello.o -o hello
 -g                      // Keep Debugging symbols<br>
 
 
-###### CMake
-
+###### Medium
+<a href="https://romroboticsmyanmar.gitbook.io/cmake/">Make ဘာလဲ နှင့် Dyanmic lib / Static lib များအကြောင်း </a>
 <a href="https://medium.com/@romrobotics/compilers-in-linux-becade518295"> Compilers in Linux </a> <br>
 <a href="https://medium.com/@romrobotics/cmake-introduction-1-335b223b5dc1"> CMake part 1  Introduction</a> <br>
 <a href="https://medium.com/@romrobotics/cmake-part-2-include-directories-7b26b6536bd"> CMake part 2  ( include_directories )</a><br>
@@ -38,3 +38,8 @@ $ g++ hello.o -o hello
 <a href="https://medium.com/@romrobotics/cmake-part-10-file-string-execute-process-1696a878f303"> CMake part 10 ( file, string, execute process )</a><br>
 <a href="https://medium.com/@romrobotics/cmake-part-11-find-package-6380ae363a9d"> CMake part 11 ( find_package() )</a><br>
 <a href="https://medium.com/@romrobotics/cmake-part-12-target-3addab718ead"> CMake part 12 ( target )</a><br>
+
+###### Gitbook
+<a href="https://romroboticsmyanmar.gitbook.io/stl/">C++ stl အနှစ်များ </a>
+<a href="https://romroboticsmyanmar.gitbook.io/c-templates/">C++ Templates</a>
+<a href="https://romroboticsmyanmar.gitbook.io/compiler-compile/">Cross-compile Basic</a>

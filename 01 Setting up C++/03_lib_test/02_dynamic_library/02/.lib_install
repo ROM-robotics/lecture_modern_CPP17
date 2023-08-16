@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp libdeepblue.so /usr/lib/x86_64-linux-gnu/
+sudo cp deepblue.hpp /usr/include/
