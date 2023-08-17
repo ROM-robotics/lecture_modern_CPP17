@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo cp libdeepblue.so /usr/lib/x86_64-linux-gnu/
+sudo cp deepblue.hpp /usr/include/
+
+echo "libdeepblue.so install done!"
+echo "g++ -I/usr/include -L/usr/lib/x86_64-linux-gnu main.cpp -ldeepblue"
