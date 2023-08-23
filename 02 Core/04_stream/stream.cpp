@@ -11,9 +11,10 @@ int main()
 
 	filename >> num >> ext;
 
-
 	std::cout << "Number is: " << num << std::endl;
 	std::cout << "Extension is: " << ext << std::endl;
+
+	std::cerr << "this is std::cerr" << std::endl;
 
 	return 0;
 }
