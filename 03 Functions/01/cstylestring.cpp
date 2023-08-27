@@ -10,6 +10,5 @@ int main(){
 	std::cout << dest << std::endl;
 
 	std::cout << source << std::endl;
-
 	return 0;
 }
