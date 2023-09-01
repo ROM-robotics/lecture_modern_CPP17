@@ -5,6 +5,7 @@
 int main()
 {
 	std::vector<int> numbers = { 1, 2, 3};
+	std::vector<int> num(10,2); // { 2,2,2,2,2,2,2,2,2,2 }
 	std::vector<std::string> names = {"Nacho", "Cyrill"};
 
 	names.emplace_back("Roboto");
