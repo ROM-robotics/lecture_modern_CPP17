@@ -11,6 +11,7 @@ int main()
 	auto [name,value] = Foo();
 	std::cout << name << " has value : " << value << std::endl;
 	
+	int b = 3;
 	f3();
 
 	return 0;
