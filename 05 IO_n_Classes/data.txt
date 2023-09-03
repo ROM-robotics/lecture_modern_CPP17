@@ -1,0 +1,5 @@
+1	2.34	One	0.21
+2	2.004	Two	0.9
+3	-2.35	string	0.22
+hello 
+one
