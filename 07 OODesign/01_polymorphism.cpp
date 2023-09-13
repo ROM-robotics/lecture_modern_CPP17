@@ -5,7 +5,6 @@ using std::endl;
 class Printable {
 public:
     virtual void print() const= 0; // must override
-    // virtual void paint() const= 0;
 };
 
 class Printer : public Printable {
