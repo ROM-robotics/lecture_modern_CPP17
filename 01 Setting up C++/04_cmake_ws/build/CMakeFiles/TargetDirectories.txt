@@ -1,0 +1,4 @@
+/home/mr_robot/Desktop/lecture_modern_CPP17/01 Setting up C++/04_cmake_ws/build/CMakeFiles/tools.dir
+/home/mr_robot/Desktop/lecture_modern_CPP17/01 Setting up C++/04_cmake_ws/build/CMakeFiles/main.dir
+/home/mr_robot/Desktop/lecture_modern_CPP17/01 Setting up C++/04_cmake_ws/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/lecture_modern_CPP17/01 Setting up C++/04_cmake_ws/build/CMakeFiles/rebuild_cache.dir
