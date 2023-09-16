@@ -6,7 +6,7 @@ template <typename T, size_t N=10>
 T accumulateVector(const T& val)
 {
     std::vector<T> vec(val,N);
-    return std::accumulate(vec.begin(),vec.end(), 0);
+    return std::accumulate(vec.begin(),vec.end(), 0); // 0 to add summation of vectors
 };
 
 int main()
