@@ -13,7 +13,7 @@ int main()
 {
     std::cout << accumulateVector(1) << std::endl;
     std::cout << accumulateVector<float>(2) << std::endl;
-    std::cout << accumulateVector<float, 5>(2.0) << std::endl;
+    std::cout << accumulateVector<float, 5>(2.0) << std::endl; // teplate parameter
 
     return 0;
 }
