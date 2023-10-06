@@ -30,7 +30,7 @@ int main() {
   std::cout << "Bonus: " << mg_ba.bonus << "\n";
 
   // Error
-  //mg_ba.salary = 10000;
+  //g_ba.salary = 10000;
 
   // Error
   //std::cout << mg_ba.salary << std::endl; /* calling protected data member from outside of the class */

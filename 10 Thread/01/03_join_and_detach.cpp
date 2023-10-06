@@ -11,11 +11,11 @@ void run(int c) {
 }
 int main()
 {
-    std::thread t(run, 10);
+    std::thread t(run, 10); // t thread start running
     std::cout << "main() before t.detach()" << std::endl;
 
-    //t.join(); 
-    t.detach();
+    //t.join();             // main thread wait for t to finish
+    t.detach();             // t1 will run freely on it's own  .. daemon process
 
     std::cout << "main() after t.detach()"<< std::endl;
 
@@ -23,4 +23,5 @@ int main()
     return 0;
 }
 
-// main() thread ပြီးသွားတော့ run() thread ကို မမြင်ရတော့ဘူး။ ဒါမှမဟုတ် os ကြောင့် run() thread နောက်ကျတာလဲဖြစ်နိုင်တယ်။
+// main() thread ပြီးသွားတော့ run() thread ကို မမြင်ရတော့ဘူး။
+// ဒါမှမဟုတ် os ကြောင့် run() thread နောက်ကျတာလဲဖြစ်နိုင်တယ်။

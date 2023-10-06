@@ -13,6 +13,6 @@ int main() {
     constexpr size_t size_ = arr.size();
 
     std::vector<int> vec;
-    //constexpr size_t size = vec.size();
+    constexpr size_t size = vec.size();
     return factorial(10);
 }
