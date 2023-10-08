@@ -11,7 +11,7 @@ void run(int c) {
 }
 int main()
 {
-    std::thread t(run, 10); // t thread start running
+    std::thread t(run, 100000000); // t thread start running
     std::cout << "main() before t.detach()" << std::endl;
 
     //t.join();             // main thread wait for t to finish

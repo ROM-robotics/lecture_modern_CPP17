@@ -12,6 +12,7 @@ void add100000()
         // not waiting , just skiping
         if( m.try_lock() )
         {
+            //m.lock();
             ++myAmount;
             m.unlock();
         }
