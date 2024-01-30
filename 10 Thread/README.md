@@ -113,3 +113,4 @@ void addMoney()
 - std::mutex::try_lock() က lockable object တစ်ခုပဲ lock လုပ်လို့ရပေမဲ့ std::try_lock() ကတော့ object အများကြီးကို တချိန်တည်းမှာ lock လုပ်ပေးနိုင်တယ်။ std::try_lock(m1,m2,m3,..mn) မှာ m3 ကို lock မလုပ်နိုင်ဘူးဆိုရင် 0 base return ပေးမယ်။ 2 ပေးမှာပေါ့။ အားလုံး lock လုပ်နိုင်ရင် -1 ပေးမယ်။  
 - std::recursive_mutex ကတော့ recursively lock လုပ်နိုင်ပါတယ်။ အကြိမ်ရေ မြောက်များစွာ lock လုပ်နိုင်ပြီး unlock ပြန်လုပ်ပေးရပါမယ်။ အဲ့ဒါပြီးမှ တခြား thread က lock လုပ်နိုင်မှာဖြစ်ပါတယ်။ program 09 က comment များကိုကြည့်ပါလေ။
 
+## go to https://github.com/ROM-robotics/cpp_thread
